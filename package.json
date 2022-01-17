@@ -26,12 +26,12 @@
       "node_modules/(?!react-native|@shoutem|react-clone-referenced-element|native-base-shoutem-theme)"
     ]
   },
-  "version": "2.15.7",
+  "version": "2.15.8",
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
     "@codler/react-native-keyboard-aware-scroll-view": "^1.0.1",
-    "@react-native-community/datetimepicker": "^3.0.2",
+    "@react-native-community/datetimepicker": "3.4.7",
     "blueimp-md5": "^2.5.0",
     "clamp": "^1.0.1",
     "color": "~3.1.2",
